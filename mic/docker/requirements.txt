@@ -17,7 +17,7 @@ jsonschema==3.2.0
 MarkupSafe==1.1.1
 mic @ git+https://github.com/mintproject/mic.git@2c477a5b3d87265999a1d3d005ab3e3281b5aa7c
 modelcatalog-api==2.5.0
-numpy==1.19.0
+numpy==1.22.0
 pycparser==2.20
 pygit2==1.2.1
 PyGithub==1.51
